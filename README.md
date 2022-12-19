@@ -1,6 +1,6 @@
 # Actions-OpenWrt
 
-A template for building OpenWrt with GitHub Actions   [link](https://github.com/P3TERX/Actions-OpenWrt)
+A template for building OpenWrt with GitHub Actions  fork自  [link](https://github.com/P3TERX/Actions-OpenWrt)
 
 ## Usage
 
